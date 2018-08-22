@@ -1,0 +1,45 @@
+.banner-height{
+	padding: 25vh 0vh;
+	background-color: #803284;
+}
+
+.banner-title{
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 5px;
+	font-size: 10vh;
+	color: white;
+}
+
+.para-style{
+	text-align: justify;
+	margin-top: 25px;
+}
+
+.main_height{
+	padding: 7vh;
+}
+
+.center-banner{
+	background-color: #D0F3F1;
+	padding: 10vh;
+}
+
+.banner-imgs{
+	width: 150px;
+}
+
+.center-team{
+	padding: 10vh;
+}
+
+.img-size{
+	height: 230px; 
+	width: 230px;
+}
+
+.post{
+	font-size: 17px;
+	font-weight: bold;
+	color: #282828;
+}
